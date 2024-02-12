@@ -1,2 +1,7 @@
 Flask
+flask-cors
+firebase-admin
+Flask-Session
+pyserial
 gunicorn
+Werkzeug
